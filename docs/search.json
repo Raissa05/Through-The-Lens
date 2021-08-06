@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-08-05T20:13:17-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Through The Lens",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-08-05T20:13:18-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
